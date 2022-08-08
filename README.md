@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Kashish Lakhara</h1>
 <h3 align="center">Learn in public!</h3>
 
-![Learn in public!](https://pbs.twimg.com/profile_banners/1459875544946802695/1657449923/1080x360)
+![Learn in public!](https://pbs.twimg.com/profile_banners/1459875544946802695/1657466223/1500x500)
 
 <p align="left"> <a href="https://twitter.com/kashishtwts" target="blank"><img src="https://img.shields.io/twitter/follow/kashishtwts?logo=twitter&style=for-the-badge" alt="kashishtwts" /></a> </p>
 
