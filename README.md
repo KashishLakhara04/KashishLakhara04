@@ -3,12 +3,12 @@
 DevOps Engineer at Cloud Solitaire Technologies, Ahmedabad.
 I build infrastructure that holds when things fail.
 
-I keep production Kubernetes clusters running across AWS, GCP, Azure and air-gapped bare metal, from control-plane bootstrap to the incidents that page at 3am. Most of what I know well, I learned because it broke first.
+I keep production Kubernetes clusters running across AWS, GCP, Azure and air-gapped bare metal, from control-plane bootstrap to the incidents that page at 3am.
 
 **Some of the work:**
 
 - Automated bare-metal Kubernetes deployment with Ansible and kubeadm, including etcd setup and node tuning
-- Brought a control plane back after etcd hit NOSPACE, then automated compaction so it wouldn't happen twice
+- Brought a control plane back after etcd hit NOSPACE, then automated compaction
 - HA control planes with HAProxy and Keepalived on virtual IPs
 - Migrated production from on-premise to EKS, added Karpenter for autoscaling, then cut the bill back down afterwards
 - Centralised logging with Fluent Bit and OpenSearch; AlertManager routed to Teams by severity
